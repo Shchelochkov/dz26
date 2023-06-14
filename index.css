@@ -1,0 +1,17 @@
+#cars div{
+display: flex;
+justify-content: space-around;
+background-color: rgb(228, 215, 200);
+}
+#but1{
+    margin-left: 20%;
+    padding-left: 20%;
+    height: 50px;
+    background-color: crimson;
+}
+#but2{
+    margin-left: 20%;
+    padding-left: 20%;
+    height: 50px;
+    background-color: crimson;
+}
